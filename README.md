@@ -28,4 +28,4 @@ ibm_region        | string | IBM Cloud region where the LogDNA instance is deplo
 logdna_servicekey | string | LogDNA Service Key                                       |
 logdna_endpoint   | string | LogDNA endpoint to use. Can be `public` or `private`     | `"public"`
 
-Tsdfasdfasdfest pull request
+Tsdfasdfsadfsdfasdfasdfest pull request
